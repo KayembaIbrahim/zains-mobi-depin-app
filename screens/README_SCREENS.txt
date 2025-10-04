@@ -1,0 +1,1 @@
+This directory contains all app screens used in navigation. Each screen is functional and uses inline styles with the theme colors (orange, dark gray, green-blue) and simsun font fallback to system if unavailable.
