@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Zain Mobi",
+    "slug": "zain-mobi",
+    "scheme": "zainmobi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#30353A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "ug.zainmobi.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#30353A"
+      }
+    },
+    "extra": {
+      "nsimbiToUGX": 2
+    }
+  }
+}
